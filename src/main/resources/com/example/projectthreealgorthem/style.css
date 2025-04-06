@@ -1,0 +1,89 @@
+/* Style for the entire scene */
+.root {
+    -fx-background-color: #f0f0f0; /* Light gray background for the entire scene */
+}
+
+/* General Style for buttons */
+.button {
+    -fx-background-color: #0078D4; /* Blue color */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-min-width: 100px;
+    -fx-min-height: 30px;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.4), 10, 0, 2, 2);
+}
+
+/* Hover effect for buttons */
+.button:hover {
+    -fx-background-color: #005A8E;
+}
+
+/* Style for the map background */
+.image-view {
+    -fx-fit-width: 100%;
+    -fx-fit-height: 100%;
+}
+
+/* Style for ChoiceBoxes */
+.choice-box {
+    -fx-background-color: #0077d2;
+    -fx-border-color: #000000;
+    -fx-border-width: 1;
+    -fx-font-size: 14px;
+    -fx-min-width: 150px;
+    -fx-pref-height: 25px;
+    -fx-text-fill: black; /* Set text color to black */
+}
+
+/* Style for TextArea */
+.text-area {
+    -fx-background-color: #0077d2;
+    -fx-border-color: #000000;
+    -fx-border-width: 1;
+    -fx-font-size: 14px;
+    -fx-pref-width: 300px;
+    -fx-pref-height: 157px;
+    -fx-padding: 10px;
+    -fx-text-fill: #000000; /* Set text color to black */
+}
+
+/* Style for Labels */
+.label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+}
+
+/* Style for the source and destination buttons */
+.button.source, .button.destination {
+    -fx-background-color: red;
+    -fx-min-width: 7px;
+    -fx-min-height: 7px;
+    -fx-max-width: 7px;
+    -fx-max-height: 7px;
+    -fx-background-radius: 10em;
+}
+
+/* Style for the Alert Box */
+.alert-error {
+    -fx-background-color: #f8d7da; /* Light red background */
+    -fx-border-color: #f5c6cb; /* Red border */
+    -fx-border-width: 2px;
+    -fx-text-fill: #721c24; /* Dark red text */
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+/* Style for the buttons in the Alert Box */
+.alert-error .button {
+    -fx-background-color: #f5c6cb; /* Light red background */
+    -fx-text-fill: #721c24; /* Dark red text */
+    -fx-border-color: #721c24;
+    -fx-border-width: 1px;
+}
+
+.alert-error .button:hover {
+    -fx-background-color: #721c24; /* Dark red when hovered */
+    -fx-text-fill: white; /* White text when hovered */
+}

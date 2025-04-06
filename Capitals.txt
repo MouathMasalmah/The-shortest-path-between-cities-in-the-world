@@ -1,0 +1,256 @@
+54,200
+Jaber, 37, 37
+Moscow, 55.769206596745704, 37.624319992290765
+Helsinki, 60.17675375108782, 24.9101548953973
+Stockholm, 59.33363055894837, 18.054505935911607
+Oslo, 59.86744582695459, 11.391333773480586
+Paris, 48.89419110902035, 2.7386173937495375
+Madrid, 40.28019393244208, -2.666655936844847
+Reykjavík, 64.14873061164133, -21.948626449945937
+Ottawa, 45.42485518621434, -75.38877488457756
+Washington, 38.90845835730525, -77.03364547243469
+Mexico City, 19.739299867528242, -96.59694692711008
+Brasília, -15.790875788667268, -47.87695145258979
+Buenos Aires, -34.594621003747164, -58.39112108331468
+Santiago, -33.484269934293984, -70.43173354284303
+Cairo, 30.56162562014246, 32.475305296854515
+Algiers, 36.742761673020084, 3.0739663423504124
+Bamako, 12.636531905875357, -8.009372432715153
+N'Djamena, 12.121386693849766, 15.061452097311992
+Libreville, 0.4091443249859344, 9.42488677626037
+Cape Town, -33.92519231090767, 18.404407697668514
+Antananarivo, -18.924445876381753, 47.53299091943762
+Mogadishu, 2.0434104577562033, 45.3306652705972
+Riyadh, 24.717525963848722, 46.6365927697894
+Tehran, 35.73606711126136, 51.31427976441359
+Beijing, 39.91955020468265, 116.41238567382383
+New Delhi, 28.61650032366157, 77.21377490862595
+Bangkok, 13.769170913812452, 100.48703296377408
+Canberra, -35.29599200788338, 149.36898354385585
+Athens, 37.988569675260784, 23.727327790431392
+Ankara, 39.934356266463624, 32.84202481036473
+Warsaw, 52.22967562550233, 20.99382502465832
+Astana, 51.159577808960606, 71.43809885308933
+Baghdad, 33.3330774475375, 44.392553735524984
+Muscat, 23.5853548248187, 58.370481012823916
+Lusaka, -15.409330886776447, 28.26466397263585
+Nouakchott, 18.076899587767418, -15.964577834764723
+Managua, 12.118968904687023, -86.20983550690985
+Lima, -12.043406263381195, -77.0459702352988
+Bogotá, 4.711239189093047, -74.08036027809584
+Minsk, 53.903544599445446, 27.558338585273933
+Dublin, 53.3520858735531, -6.2525816548828965
+London, 51.509726432979626, -0.13800245210263332
+Bucharest, 44.426920251813414, 26.06990489766055
+Kathmandu, 27.719068310336933, 85.68886699439804
+Tokyo, 35.68598012866619, 139.76900478504297
+Sana'a, 15.354514003543798, 44.20233577041271
+Damascus, 33.50887955008403, 36.27396510817086
+Bangui, 4.362474246654632, 18.58028787069979
+Ulaanbaatar, 47.929777375945925, 106.88611825689428
+Khartoum, 15.607783309515534, 32.54484124035489
+Havana, 23.13587035314601, -82.37696490967954
+Dodoma, -6.181133172602213, 35.7456796456563
+Kabul, 34.564573605753694, 69.19766854439692
+Doha, 25.2845384217039, 51.52433904288808
+Moscow,Ankara,185$ ,265 min
+Helsinki,London,135$ ,70 min
+Jaber,Cairo,120$ ,40 min
+Helsinki,Paris,177$ ,125 min
+Helsinki,Reykjavík,214$ ,115 min
+Helsinki,Madrid,314$ ,205 min
+Stockholm,oslo,96$ ,65 min
+Stockholm,Reykjavík,211$ ,145 min
+Stockholm,Paris,241$ ,100 min
+Stockholm,Madrid,269$ ,245 min
+Oslo,Paris,186$ ,165 min
+Oslo,Reykjavik,277$ ,180 min
+Oslo,Dublin,300$ ,150 min
+Oslo,Warsaw,197$ ,110 min
+Paris,Bucharest,193$ ,165 min
+Paris,Algiers,122$ ,145 min
+Paris,Athens,151$ ,195 min
+Paris,Helsinki,214$ ,175 min
+Paris,ottawa,2911$ ,480 min
+Madrid,Dublin,295$ ,155 min
+Madrid,Algeris,87$ ,100 min
+Madrid,Cairo,318$ ,285 min
+Madrid,Athens,212$ ,205 min
+Reykjavík,Washington,750$ ,280 min
+Reykjavík,Paris,121$ ,210 min
+Reykjavík,landon,63$ ,180 min
+Reykjavík,Dublin,108$ ,160 min
+Ottawa,Washington,667$ ,144 min
+Washington,Ottawa,109$ ,100 min
+Washington,Mexico City,220$ ,317 min
+Washington,Bogotá,133$ ,330 min
+Washington,Paris,653$ ,450 min
+Mexico City,Paris,1095$ ,625 min
+Mexico City,Managua,356$ ,165 min
+Mexico City,Bogotá,145$ ,270 min
+Mexico City,Lima,183$ ,357 min
+Mexico City,Buenos Aires,1500$ ,550 min
+Mexico City,Havana,201$ ,160 min
+Mexico City,Washington,262$ ,260 min
+Mexico City,Santiago,564$ ,490 min
+Brasília,Buenos Aires,500$ ,215 min
+Brasília,Lima,216$ ,275 min
+Buenos Aires,lima,436$ ,287 min
+Buenos Aires,Santiago,130$ ,140 min
+Buenos Aires,Brasília,895$ ,215 min
+Buenos Aires,Bogotá,485$ ,369 min
+Santiago,Madrid,1264$ ,715 min
+Santiago,Paris,1222$ ,775 min
+Santiago,Lima,394$ ,287 min
+Santiago,Mexico City,647$ ,520 min
+Santiago,Buenos Aires,85$ ,126 min
+Cairo,Baghdad,218$ ,130 min
+Cairo,Sana'a,176$ ,170 min
+Cairo,Khartoum,327$ ,130 min
+Cairo,Algiers,184$ ,250 min
+Cairo,Riyadh,133$ ,145 min
+Cairo,Athens,125$ ,120 min
+Cairo,Doha,242$ ,180 min
+Cairo,Bucharest,191$ ,170 min
+Cairo,Muscat,169$ ,225 min
+Cairo,N'Djamena,373$ ,250 min
+Algiers,Nouakchott,269$ ,255 min
+Algiers,Madrid,215$ ,95 min
+Algiers,Cairo,371$ ,225 min
+Algiers,Paris,64$ ,155 min
+Bamako,Nouakchott,253$ ,100 min
+Bamako,Paris,647$ ,360 min
+N'Djamena,Cairo,437$ ,200 min
+Libreville,Paris,1466$ ,455 min
+Libreville,Cape Town,544$ ,335 min
+Cape Town,Ankara,838$ ,680 min
+Cape Town,Antananarivo,438$ ,305 min
+Cape Town,Doha,470$ ,580 min
+Antananarivo,Cape Town,573$ ,200 min
+Antananarivo,Mogadishu,777$ ,280 min
+Mogadishu,Riyadh,510$ ,250 min
+Mogadishu,Ankara,692$ ,425 min
+Riyadh,San'a,56$ ,120 min
+Riyadh,London,264$ ,450 min
+Riyadh,Muscat,124$ ,120 min
+Riyadh,Doha,69$ ,85 min
+Riyadh,Kabul,275$ ,240 min
+Riyadh,Bangkok,496$ ,415 min
+Riyadh,New Delhi,99$ ,240 min
+Riyadh,Beijing,398$ ,540 min
+Riyadh,Ankara,60$ ,265 min
+Riyadh,Cairo,69$ ,185 min
+Riyadh,Athens,140$ ,270 min
+Tehran,Kabul,175$ ,150 min
+Tehran,Baghdad,114$ ,90 min
+Beijing,Astana,403$ ,240 min
+Beijing,Tokyo,443$ ,220 min
+Beijing,Ulaanbaatar,444$ ,150 min
+Beijing,Canberra,463$ ,685 min
+New Delhi,Kathmandu,59$ ,110 min
+New Delhi,Canberra,1330$ ,745 min
+New Delhi,Washington,2184$ ,925 min
+New Delhi,paris,1135$ ,595 min
+Bangkok,Tokyo,329$ ,365 min
+Bangkok,Canberra,405$ ,560 min
+Bangkok,Paris,1127$ ,765 min
+Bangkok,London,1743$ ,820 min
+Canberra,Tokyo,1511$ ,590 min
+Canberra,New Delhi,1080$ ,780 min
+Canberra,Cape Town,1137$ ,855 min
+Canberra,Bangkok,357$ ,595 min
+Athens,Cairo,108$ ,120 min
+Athens,Madrid,304$ ,235 min
+Athens,Warsaw,165$ ,155 min
+Athens,Doha,611$ ,260 min
+Ankara,Paris,450$ ,260 min
+Ankara,London,395$ ,260 min
+Ankara,Riyadh,183$ ,215 min
+Ankara,Doha,203$ ,240 min
+Warsaw,Doha,430$ ,340 min
+Warsaw,Helsinki,69$ ,110 min
+Warsaw,Bucharest,294$ ,110 min
+Warsaw,paris,72$ ,160 min
+Astana,Beijing,401$ ,240 min
+Baghdad,Cairo,256$ ,160 min
+Baghdad,Doha,750$ ,130 min
+Baghdad,Ankara,115$ ,185 min
+Muscat,Riyadh,346$ ,155 min
+Muscat,Doha,81$ ,95 min
+Muscat,Cairo,159$ ,290 min
+Muscat,New Delhi,196$ ,180 min
+Lusaka,Cape Town,227$ ,120 min
+Lusaka,Doha,1035$ ,420 min
+Lusaka,Dodoma,514$ ,160 min
+Nouakchott,Algiers,552$ ,250 min
+Nouakchott,Ankara,730$ ,410 min
+Managua,Havana,351$ ,145 min
+Lima,Madrid,1293$ ,680 min
+Lima,Buenos Aires,158$ ,260 min
+Lima,Santiago,120$ ,225 min
+Lima,Mexico City,1020$ ,370 min
+Bogotá,Lima,208$ ,185 min
+Bogotá,Mexico City,432$ ,290 min
+Bogotá,Havana,335$ ,215 min
+Bogotá,Buenos Aires,349$ ,375 min
+Minsk,Doha,704$ ,390 min
+Dublin,Cairo,424$ ,315 min
+Dublin,Paris,81$ ,100 min
+Dublin,Helsinki,358$ ,185 min
+Dublin,Ankara,478$ ,270 min
+London,Paris,32$ ,80 min
+London,Doha,712$ ,400 min
+London,Madrid,26$ ,150 min
+London,Washington,2638$ ,505 min
+Bucharest,Paris,136$ ,205 min
+Bucharest,Doha,353$ ,270 min
+Bucharest,Athens,63$ ,145 min
+Bucharest,London,142$ ,210 min
+Kathmandu,Doha,545$ ,335 min
+Kathmandu,New Delhi,126$ ,135 min
+Kathmandu,Tokyo,780$ ,320 min
+Kathmandu,Bangkok,204$ ,190 min
+Tokyo,Helsinki,1409$ ,785 min
+Tokyo,Paris,1391$ ,895 min
+Tokyo,New Delhi,384$ ,605 min
+Tokyo,Beijing,104$ ,270 min
+Tokyo,Doha,549$ ,765 min
+Sana'a,Riyadh,96$ ,110 min
+Sana'a,Cairo,177$ ,180 min
+Sana'a,Muscat,251$ ,185 min
+Damascus,Doha,453$ ,160 min
+Damascus,Cairo,190$ ,90 min
+Damascus,Ankara,154$ ,120 min
+Damascus,Athens,186$ ,120 min
+Bangui,Mogadishu,592$ ,200 min
+Ulaanbaatar,Ankara,365$ ,555 min
+Ulaanbaatar,Beijing,444$ ,140 min
+Khartoum,Cairo,176$ ,130 min
+Khartoum,Doha,291$ ,150 min
+Havana,Madrid,618$ ,520 min
+Havana,Mexico City,441$ ,200 min
+Havana,Bogotá,198$ ,199 min
+Dodoma,Lusaka,210$ ,200 min
+Dodoma,Antananarivo,462$ ,310 min
+Kabul,Doha,400$ ,210 min
+Kabul,Riyadh,600$ ,240 min
+Kabul,Ankara,381$ ,450 min
+Doha,Stockholm,250$ ,264 min
+Doha,Algiers,102$ ,273 min
+Doha,Ulaanbaatar,242$ ,178 min
+Doha,Lima,832$ ,286 min
+Doha,Athens,552$ ,305 min
+Doha,London,901$ ,455 min
+Doha,Madrid,681$ ,460 min
+Doha,New Delhi,169$ ,215 min
+Doha,Cairo,154$ ,230 min
+Doha,Muscat,121$ ,90 min
+Doha,Riyadh,115$ ,85 min
+Doha,Lusaka,859$ ,430 min
+Doha,Cape Town,1119$ ,585 min
+Doha,Canberra,1937$ ,286 min
+Doha,Baghdad,640$ ,140 min
+Doha,Algiers,714$ ,435 min
+Doha,Washington,1767$ ,900 min
+Doha,Moscow,914$ ,340 min
+  
